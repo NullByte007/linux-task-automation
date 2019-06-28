@@ -15,10 +15,7 @@
 # libraries 
 import os
 import keyboard
-
-os.system("pip install colorama==0.3.3")
 from colorama import Fore, Back, Style
-print("[*] Downloading Required Library...")
 os.system("clear")
 print(Fore.GREEN + Style.BRIGHT + "") 
 
